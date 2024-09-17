@@ -52,8 +52,3 @@ This senior project involves designing and building a robot arm using a professi
 - [Documentation](#documentation)
 - [Additional Presentations](#additional-presentations)
 
----
-
-### Contact
-For more information, please reach out to the team at [email@example.com](mailto:email@example.com).
-
