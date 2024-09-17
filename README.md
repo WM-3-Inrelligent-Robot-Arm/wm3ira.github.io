@@ -50,5 +50,5 @@ This senior project involves designing and building a robot arm using a professi
 - [Team Members](#team-members)
 - [Final Deliverables](#final-deliverables)
 - [Documentation](#documentation)
-- [Additional Presentations](#additional-presentations)
+- [Presentations](#-presentation)
 
