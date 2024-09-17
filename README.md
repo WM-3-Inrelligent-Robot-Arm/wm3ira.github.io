@@ -26,7 +26,7 @@ This senior project involves designing and building a robot arm using a professi
 ### Final Deliverables
 - [Final Report](https://github.com/username/repository/final_report.pdf)
 - [Final Presentation](https://www.youtube.com/watch?v=your_video_id)
-- [GitHub Site](https://github.com/username/repository)
+- [GitHub Site](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/tree/main)
 
 ---
 
