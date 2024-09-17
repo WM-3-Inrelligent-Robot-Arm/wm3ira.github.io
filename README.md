@@ -32,7 +32,7 @@ This senior project involves designing and building a robot arm using a professi
 
 ### Optional Documents
 - [Project Plan](https://github.com/username/repository/project_plan.pdf)
-- [Software Requirements Specification (SRS)](https://github.com/username/repository/srs.pdf)
+- [Software Requirements Specification (SRS)]([https://github.com/username/repository/srs.pdf](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Requirements.pdf))
 - [Software Design Document (SDD)]([https://github.com/username/repository/sdd.pdf](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Design.pdf))
 - [System Test Plan (STP)](https://github.com/username/repository/stp.pdf)
 - [User Manual](https://github.com/username/repository/user_manual.pdf)
