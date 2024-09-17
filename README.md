@@ -11,7 +11,7 @@ This senior project involves designing and building a robot arm using a professi
 ### Team Members
 - Zhiwen Zheng (Leader) - Documentation and Test
 - Ellie Ireland - Developer
-- Waqas Majeed = Project owner and advisor
+- Waqas Majeed - Project owner and advisor
 
 ---
 
@@ -49,7 +49,7 @@ This senior project involves designing and building a robot arm using a professi
 - [Project Overview](#overview)
 - [Team Members](#team-members)
 - [Final Deliverables](#final-deliverables)
-- [Optional Documents](#optional-documents)
+- [Documentation](#documentation)
 - [Additional Presentations](#additional-presentations)
 
 ---
