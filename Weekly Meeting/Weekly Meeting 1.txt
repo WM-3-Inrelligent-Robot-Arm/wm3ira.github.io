@@ -1,0 +1,47 @@
+Our Focus:
+-How to make AI Robot work together - Robot arm to grasp and Robot to get data about environment
+and target, and transfer data to Robot arm
+	- try to make them smart
+
+Situation right now:
+-Still waiting on hardware (1 to 2 months)
+-Starting with software
+
+Knowledge we will use:
+-Machine Vision
+	-recognize the target
+	-check the environment to move Robot arm in front of target
+	-decide the distance between Robot arm and target for grasping
+	-check the shape of target and change the way to grasp
+-Machine Learning
+	-identify which is the target
+	-decide how to grasp
+	
+Robot we might use:
+-ROSbot 2R
+	-can add Robot arm at top
+	-with sensers
+	-small size, might not stable after installing Robot arm
+	-can be used for mapping
+-Openmanipulator X
+	-Robot arm
+	-with 4 joints
+	-can be install on surface
+-Turtlebot 3 Waffle Pi
+	-can add Robot arm at top
+	-with senser
+	-huge size, stable for Robot arm after installing Robot arm
+
+Software might use:
+-ROS robot operating system (Linux based)
+-Gazebo: 3D environment simulator for ROS
+-RobotC: other software have simulator and coding for VEX Robotics (C programming)
+
+Objectives:
+-knowledge of target location
+-Pick it up & retrieve it
+-Navigation & Manipulation
+
+Before next meeting:
+-check the details about all robot today talked about
+-decide what robot will choose with teammate

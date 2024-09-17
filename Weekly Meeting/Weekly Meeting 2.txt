@@ -1,0 +1,31 @@
+Focus:
+-Roughly describe how the software RobotC works
+	-RobotC does not have manipulator
+
+Setting RobotC:
+-Install RobotC
+	-VEX Version
+-Install RVW
+	-Robot Virtual World
+	-Add License for RVW VEX
+-Change to RVW
+	-Robot > Compiler Target > Virtual World
+
+Describe the theory of Robot moving:
+-Point Turn
+	-Same speed but different direction for both side wheels
+-Normal Turn
+	-One side fast and the other side slow
+-Straight move
+	-Two side have the same speed
+
+Run default assignments in RobotC simulator:
+-Let robot move forward with the same speed and stop at a fix distance between Robot and wall
+-Let robot move forward at one speed and then slow down until get the fix distance
+-Files contains user defined model
+	-Check the standard models in Example files and try to design own
+	-Implement robot design will be project and we will do so in RobotC
+		-Can get the kit easier
+
+Go through ROS Beginner Guide:
+-Need Ubuntu System
