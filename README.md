@@ -40,7 +40,7 @@ This senior project involves designing and building a robot arm using a professi
 
 ---
 
-### Additional Presentations
+### Presentation
 - [Project Presentation Slides](https://github.com/username/repository/presentation_slides.pdf)
 
 ---
