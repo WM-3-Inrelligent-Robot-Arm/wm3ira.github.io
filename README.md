@@ -4,7 +4,9 @@
 ---
 
 ### Overview
-The goal of this senior project is to develop an intelligent mobile manipulator by integrating a mobile robot with a robotic manipulator. This will be done using the Turtlebot3 Waffle Pi as a mobile base and the Open ManipulatorX as the robot arm. Peripherals of this unit include a Raspberry Pi micro computer, a camera module, and a LIDAR sensor. The intelligent aspect of the mobile manipulator will be implemented with machine learning, taking input from the real world using machine vision. The functionality this will include autonomous navigation, real time object recognition. and pose estimation based grasp selection.
+The goal of this senior project is to develop an intelligent mobile manipulator by integrating a mobile robot with a robotic manipulator. This will be done using the Turtlebot3 Waffle Pi as a mobile base and the Open ManipulatorX as the robot arm. Peripherals of this unit include a Raspberry Pi micro computer, a camera module, and a LIDAR sensor. The intelligent aspect of the mobile manipulator will be implemented with machine learning, taking input from the real world using machine vision. The functionality this will include autonomous navigation, real time object recognition. and pose estimation based grasp selection. 
+
+The package files are uploaded to ty/ directory.
 
 ---
 
