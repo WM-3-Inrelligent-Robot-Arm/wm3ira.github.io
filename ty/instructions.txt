@@ -7,3 +7,5 @@ rm -r ty/runs
 python3 src/y/gazebo_stream.py
 python3 src/y/web_server.py
 http://localhost:5000/
+
+Move map files to $HOME directory
