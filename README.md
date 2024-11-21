@@ -17,7 +17,7 @@ This senior project involves designing and building a robot arm using a professi
 
 ### Course Information
 - **Semester**: Fall 2024
-- **Course**: CS 4850/04 - Senior Project
+- **Course**: CS 4850/03-04 - Senior Project
 
 ---
 
