@@ -27,6 +27,7 @@ This senior project involves designing and building a robot arm using a professi
 - [Final Report](https://github.com/username/repository/final_report.pdf)
 - [Final Presentation](https://www.youtube.com/watch?v=your_video_id)
 - [GitHub Site](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/tree/main)
+- [Project Website](https://sites.google.com/view/wm-3intelligentrobotarm?usp=sharing)
 
 ---
 
@@ -34,9 +35,9 @@ This senior project involves designing and building a robot arm using a professi
 - [Project Plan](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3_Intelligent%20Robot%20Arm_Project%20Plan.pdf)
 - [Software Requirements Specification (SRS)](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Requirements.pdf)
 - [Software Design Document (SDD)](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Design.pdf)
-- [Software Design Gantt Chart]()
-- [System Test Plan (STP)](https://github.com/username/repository/stp.pdf)
-- [User Manual](https://github.com/username/repository/user_manual.pdf)
+- [Development Document](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Development_Document.pdf)
+- [System Test Plan (STP)](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Software_Test_Plan.pdf)
+- [Project Gantt Chart]()
 
 ---
 
