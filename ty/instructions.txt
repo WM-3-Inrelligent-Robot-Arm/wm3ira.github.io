@@ -1,4 +1,4 @@
-cd ty/
+cd WM3-IntelligentRobotArm-SourceCode/
 ros2 launch turtlebot3_manipulation_moveit_config servo.launch.py
 ros2 launch turtlebot3_manipulation_bringup gazebo.launch.py
 ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 map odom
