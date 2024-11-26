@@ -39,7 +39,7 @@ The package files are uploaded to ty/ directory.
 - [Software Design Document (SDD)](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Design.pdf)
 - [Development Document](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Development_Document.pdf)
 - [System Test Plan (STP)](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-Intelligent%20Robot%20Arm-Software_Test_Plan.pdf)
-- [Project Gantt Chart]()
+- [Project Gantt Chart](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3_Intelligent%20Robot%20Arm_GanttChart-Estimate.pdf)
 
 ---
 
