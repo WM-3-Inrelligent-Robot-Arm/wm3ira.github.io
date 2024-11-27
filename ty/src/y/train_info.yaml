@@ -1,8 +1,0 @@
-path: bolts_dataset # dataset root dir
-train: /home/eireland/y/datasets/bolts_dataset/images/train
-val: /home/eireland/y/datasets/bolts_dataset/images/val
-test:               # test images (optional)
-
-# Classes
-names:
-  0: ball
