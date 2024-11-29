@@ -26,7 +26,7 @@ The package files are uploaded to ty/ directory.
 ## Project Contents
 
 ### Final Deliverables
-- [Final Report](https://github.com/username/repository/final_report.pdf)
+- [Final Report](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/blob/main/WM-3-IntelligentRobotArm-FinalReport.pdf)
 - [Final Presentation Video](https://sites.google.com/view/wm-3intelligentrobotarm/presentation?authuser=0)
 - [GitHub Site](https://github.com/WM-3-Inrelligent-Robot-Arm/wm3ira.github.io/tree/main)
 - [Project Website](https://sites.google.com/view/wm-3intelligentrobotarm?usp=sharing)
